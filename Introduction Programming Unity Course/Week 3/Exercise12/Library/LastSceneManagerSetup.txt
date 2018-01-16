@@ -1,4 +1,4 @@
 sceneSetups:
-- path: D:/Eduardo/Work/Programming Games/Unity/Introduction Programming Unity Course/Week3/SpritesAndGameObjects/Assets/scenes/scene0.unity
+- path: Assets/scenes/scene0.unity
   isLoaded: 1
   isActive: 1
