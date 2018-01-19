@@ -1,0 +1,94 @@
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Albert\Documents\Exercise17\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Albert\Documents\Exercise17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Documents\Exercise17\obj\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Documents\Exercise17\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\obj\Debug\Assembly-CSharp.dll
+C:\Users\Albert\Dropbox\Coursera\Beg C# Prog Part 1\Module 4 Selection and Unity Input\Lesson 1 Selection\Exercise 17 Teddy Bear Explosions\Exercise17 start\obj\Debug\Assembly-CSharp.pdb
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\obj\Debug\Assembly-CSharp.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Assembly-CSharp.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\nunit.framework.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEditor.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.Analytics.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.HoloLens.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.Networking.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.Timeline.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.UI.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Mono.Cecil.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Unity.DataContract.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\ExCSS.Unity.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Unity.UNetWeaver.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Unity.CecilTools.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEditor.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.UI.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.Networking.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.TestRunner.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\nunit.framework.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.Timeline.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.Analytics.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\Temp\bin\Debug\UnityEngine.HoloLens.xml
+D:\Eduardo\Work\Programming Games\Unity\Introduction Programming Unity Course\Week 3\Exercise17\obj\Debug\Assembly-CSharp.pdb
